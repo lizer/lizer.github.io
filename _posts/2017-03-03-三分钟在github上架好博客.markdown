@@ -17,7 +17,8 @@ published: true
 
 
    好了,时间已经过了1分钟.得抓紧了.github登录以后搜索lizer/jekyll-blog.fork项目到你自己的空间 - 如下图所示.
-   ![jekyll-blog-project-page.png]({{site.baseurl}}/image/jekyll-blog-project-page.png)
+   ![jekyll-blog-project-page.png]({{site.baseurl}}/images/jekyll-blog-project-page.png)
+
 
 
 
@@ -29,14 +30,17 @@ published: true
 
 # 3.更改repo的名字.
 github默认"你的用户名.github.io"这个repo里的内容显示在http://你的用户名.github.io上, 所以你需要把你fork出来的repo改下名字.点击repo的setting按钮如下图所示.
-![change_repo_name1.png]({{site.baseurl}}/_images/change_repo_name1.png)
+![change_repo_name1.png]({{site.baseurl}}/images/change_repo_name1.png)
+
 
   然后把名字改成"你的用户名.github.io",比如我的github用户名是lizer14,这个repo的用户名就是lizer14.github.io.
-  ![change_repo_name2.png]({{site.baseurl}}/_images/change_repo_name2.png)
+  ![change_repo_name2.png]({{site.baseurl}}/images/change_repo_name2.png)
+
 
 # 4. 看秒表时间
 博客好了.把markdown格式的博文放在_post目录里就行了.
-![lizer14_github_blog.png]({{site.baseurl}}/_images/lizer14_github_blog.png)
+![lizer14_github_blog.png]({{site.baseurl}}/images/lizer14_github_blog.png)
+
 
 # 5. tips
 下面这些~~是我写来装逼~~赶时间的话不用看了.
@@ -45,7 +49,9 @@ github默认"你的用户名.github.io"这个repo里的内容显示在http://你
 
 * 博客主题可以更换.github支持下面页面列出来的主题更改.https://pages.github.com/themes/ 我试了一下换主题,换完博客首页空白了.可能还是有些兼容性的问题存在,一个主题的作者打算放弃gem了 - https://github.com/ezrasavard/ezora-jekyll-theme/issues/1. github pages官方支持主题都是支持gem安装的,也就是说,这些主题的文件并没有在你blog的目录里,而是从主题的gem目录里索引过来的.你想修改主题文件的话只需要在你的blog目录里创建想要覆盖的文件.举个例子..我想把google analytics的script放到blog的footer上,但是footer不在我的blog目录里,我只需要把原版的footer放到我blog的目录里一样的路径下(_includes/footer.html),然后加入google analytic的代码就可以.这个帖子有详细说明. http://stackoverflow.com/questions/17207458/how-to-add-google-analytics-tracking-id-to-github-pages
 
-* 还有另一个更换博客主题的方法.我没有试,应该管用.备份所有博文和页面然后删除blog repo里的所有文件,接着把新主题的所有文件download到这个repo里,在把备份的博文文件放回去.网上看到有人类似这么干的.我的建议是少折腾搞这个把.
+* 还有另一个更换博客主题的方法.我没有试,应该管用.备份所有博文和页面然后删除blog repo里的所有文件,接着把新主题的所有文件download到这个repo里,在把备份的博文文件放回去.网上看到有人类似这么干的.我的建议是少折腾搞这个吧.
+
+* 文件名或者路径以下划线_开头是是不会在github pages上显示的.
 
 * github pages markdown cheatsheet. 
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#headers
