@@ -17,7 +17,7 @@ published: true
 
 
    好了,时间已经过了1分钟.得抓紧了.github登录以后搜索lizer/jekyll-blog.fork项目到你自己的空间 - 如下图所示.
-   ![jekyll-blog-project-page.png]({{site.baseurl}}/image/jekyll-blog-project-page.png)
+   ![jekyll-blog-project-page.png](https://lizer.github.io/image/jekyll-blog-project-page.png)
 
 
 
