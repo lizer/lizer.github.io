@@ -17,7 +17,8 @@ published: true
 
 
    好了,时间已经过了1分钟.得抓紧了.github登录以后搜索lizer/jekyll-blog.fork项目到你自己的空间 - 如下图所示.
-   ![jekyll-blog-project-page.png]({{site.baseurl}}/_posts/jekyll-blog-project-page.png)
+   ![jekyll-blog-project-page.png]({{site.baseurl}}/image/jekyll-blog-project-page.png)
+
 
 
 
@@ -48,9 +49,4 @@ github默认"你的用户名.github.io"这个repo里的内容显示在http://你
 * github pages markdown cheatsheet. 
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#headers
 
-* 不跟我一样闲的蛋疼的话不要自己从~~scratch~~零用jekyll创建github pages blog. 附上我的安装笔记,我特么真的是走了很多弯路!!!用我做的模板,你三分钟就能搞定自己的blog. 蛋我疼完了,你随意.
-
-
-
-
-
+* 不跟我一样闲的蛋疼的话不要自己从~~scratch~~零用jekyll创建github pages blog. 附上我的安装笔记 - https://www.evernote.com/shard/s40/sh/68e121eb-4274-4e62-9153-6aa82e15ba0a/9fda10b7e215b83ea841a87740ebb905 ,我特么真的是走了很多弯路!!!用我做的模板,你三分钟就能搞定自己的blog. 蛋我疼完了,你随意.
