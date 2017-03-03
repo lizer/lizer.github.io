@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ---
 layout: post
@@ -15,6 +15,3 @@ categories: jekyll update
 1. 拿出手机打开秒表启动记时,架博客要是超过三分钟要么就是我脑子有问题要么就是你脑子有问题...当然我脑子有问题的概率大些.
 
 2. 我已经创建好一个空的github博客repo,从jekell new命令创建来了,完全空白,什么都没改除了Gemfile,这也是为了这个博客和github完全兼容.你是不知道,我花了一个小时才搞明白github上的jekell不是最新版!!!写这篇简易教程的时候是3.3.1版本.但是我~~自己电~~公司脑上apt-get install来的是3.4.0版本.不用担心,我已经在Gemfile里搞定了,你本地自己电脑上的测试环境和github上的运行环境可以保持一致!
-
-
-
