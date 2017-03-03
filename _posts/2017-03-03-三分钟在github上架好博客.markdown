@@ -1,16 +1,16 @@
 ---
 published: true
 ---
-真的就只需要三分钟....我特么花了半天的时间折腾来折腾去,把该探的路和该走的弯路差不多都走了.
+真的就只需要三分钟....我特么花了半天的时间折腾来折腾去,把该探的路和该走的弯路差不多都走了.实际上,只需要四部就好了.
 
 简单介绍一下,[jekyll](https://jekyllrb.com/)是一个把markdown文本转化成静态网页的工具.github pages就用了它,轻量,快速,安全还不需要数据库.github的免费空间我不知道有多大,也懒得查了,感觉和gmail一样是用不完的.把博客放在上面非常合适.实际上,很多大牛都这么干.
 
 没有github账号的话就去注册一个.手速快的话30秒就注册好了.
 
-# 1. 开始记时.
+# 1. 开始记时
 拿出手机打开秒表启动记时,架博客要是超过三分钟要么就是我脑子有问题要么就是你脑子有问题...当然我脑子有问题的概率大些.
 
-# 2. fork一个博客模板.
+# 2. fork一个博客模板
 我已经创建好一个最简洁的github博客模板,从jekell new命令创建来了,完全空白,什么都没改除了Gemfile,这也是为了这个博客和github完全兼容.你是不知道,我花了一个小时才搞明白github上的jekell不是最新版!!!写这篇简易教程的时候是3.3.1版本.但是我~~自己电~~公司脑上apt-get install来的是3.4.0版本.不用担心,我已经在Gemfile里搞定了,你本地自己电脑上的测试环境和github上的运行环境可以保持一致!
 
    github上有很多jelyll的模板
@@ -28,7 +28,7 @@ published: true
 
 
 
-# 3.更改repo的名字.
+# 3.更改repo的名字
 github默认"你的用户名.github.io"这个repo里的内容显示在http://你的用户名.github.io上, 所以你需要把你fork出来的repo改下名字.点击repo的setting按钮如下图所示.
 ![change_repo_name1.png]({{site.baseurl}}/images/change_repo_name1.png)
 
@@ -51,7 +51,7 @@ github默认"你的用户名.github.io"这个repo里的内容显示在http://你
 
 * 还有另一个更换博客主题的方法.我没有试,应该管用.备份所有博文和页面然后删除blog repo里的所有文件,接着把新主题的所有文件download到这个repo里,在把备份的博文文件放回去.网上看到有人类似这么干的.我的建议是少折腾搞这个吧.
 
-* 文件名或者路径以下划线_开头是是不会在github pages上显示的.
+* 文件名或者路径以下划线_开头是是不会在github pages上显示的. https://help.github.com/articles/files-that-start-with-an-underscore-are-missing/
 
 * github pages markdown cheatsheet. 
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#headers
