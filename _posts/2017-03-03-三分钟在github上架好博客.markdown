@@ -8,7 +8,7 @@ published: true
 没有github账号的话就去注册一个.手速快的话30秒就注册好了.
 
 # 1. 开始记时
-拿出手机打开秒表启动记时,架博客要是超过三分钟要么就是我脑子有问题要么就是你脑子有问题...当然我脑子有问题的概率大些.
+拿出手机打开秒表启动记时,架博客要是超过三分钟要么就是我脑子有问题要么就是你脑子有问题...~~当然我脑子有问题的概率大些.~~
 
 # 2. fork一个博客模板
 我已经创建好一个最简洁的github博客模板,从jekell new命令创建来了,完全空白,什么都没改除了Gemfile,这也是为了这个博客和github完全兼容.你是不知道哇,我花了一个小时才搞明白github上的jekyll不是最新版!!!写这篇简易教程的时候是3.3.1版本.但是我~~自己电~~公司脑上apt-get install来的是3.4.0版本.不用担心,我已经在Gemfile里搞定了,你本地自己电脑上的测试环境和github上的运行环境可以保持一致!
@@ -37,7 +37,7 @@ github默认"你的用户名.github.io"这个repo里的内容显示在http://你
 # 5. tips
 下面这些~~是我写来装逼~~赶时间的话不用看了.
 
-* 有很多的编辑器可以用来帮助你写markdown.比如chrome的jekyll editor, remarkble(我的ubuntu14.04上运行不了,虽然流行但是不推荐!!),高逼格可以用emacs,我推荐[prose](http://prose.io)!!!在线编辑,**稳准狠**,git都不需要会用,也不需要搞本地测试环境看页面效果,prose直接让你在线预览!
+* 有很多的编辑器可以用来帮助你写markdown.比如chrome的jekyll editor, remarkble(我的ubuntu14.04上运行不了,虽然流行但是不推荐!!),高逼格可以用emacs,我推荐[prose](http://prose.io)!!!`在线编辑`,`稳准狠`,`git都不需要会用`,`也不需要搞本地测试环境看页面效果`,prose直接让你在线预览!
 
 * 博客主题可以更换.github支持下面页面列出来的主题更改.https://pages.github.com/themes/ 我试了一下换主题,换完博客首页空白了.可能还是有些兼容性的问题存在,一个主题的作者打算放弃gem了 - https://github.com/ezrasavard/ezora-jekyll-theme/issues/1. github pages官方支持主题都是支持gem安装的,也就是说,这些主题的文件并没有在你blog的目录里,而是从主题的gem目录里索引过来的.你想修改主题文件的话只需要在你的blog目录里创建想要覆盖的文件.举个例子..我想把google analytics的script放到blog的footer上,但是footer不在我的blog目录里,我只需要把原版的footer放到我blog的目录里一样的路径下(_includes/footer.html),然后加入google analytic的代码就可以.这个帖子有详细说明. http://stackoverflow.com/questions/17207458/how-to-add-google-analytics-tracking-id-to-github-pages
 
