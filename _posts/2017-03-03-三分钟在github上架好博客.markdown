@@ -47,7 +47,7 @@ github默认"你的用户名.github.io"这个repo里的内容显示在http://你
 * github pages markdown cheatsheet. 
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#headers
 
-* 不跟我一样闲的蛋疼的话不要自己从scrach自己安装
+* 不跟我一样闲的蛋疼的话不要自己从~~scratch~~零用jekyll创建github pages blog. 附上我的安装笔记,我特么真的是走了很多弯路!!!用我做的模板,你三分钟就能搞定自己的blog. 蛋我疼完了,你随意.
 
 
 
