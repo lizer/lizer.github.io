@@ -23,7 +23,7 @@ published: true
 
 
    项目很小,下图所示的fork时间大概需要5秒. 到这里,你的博客已经差不多建立好了.
-   ![forking_project.png]({{site.baseurl}}/_images/forking_project.png)
+   ![forking_project.png](https://lizer.github.io/_images/forking_project.png)
 
 
 # 3.更改repo的名字.
