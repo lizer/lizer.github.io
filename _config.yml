@@ -31,3 +31,13 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
+  
+disqus:
+  shortname: https-lizer-github-io
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      comments: true
