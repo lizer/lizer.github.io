@@ -13,7 +13,7 @@ published: true
 # 2. fork一个博客模板
 我已经创建好一个最简洁的github博客模板,从jekell new命令创建来了,完全空白,什么都没改除了Gemfile,这也是为了这个博客和github完全兼容.你是不知道哇,我花了一个小时才搞明白github上的jekyll不是最新版!!!写这篇简易教程的时候是3.3.1版本.但是我~~自己电~~公司脑上apt-get install来的是3.4.0版本.不用担心,我已经在Gemfile里搞定了,你本地自己电脑上的测试环境和github上的运行环境可以保持一致!
 
-   好了,时间已经过了1分钟.得抓紧了.github登录以后搜索lizer/jekyll-blog.fork项目到你自己的空间 - 如下图所示.
+   好了,时间已经过了1分钟.得抓紧了.github登录以后搜索[lizer/jekyll-blog](https://github.com/lizer/jekyll-blog). 之后fork项目到你自己的空间 - 如下图所示.
    ![jekyll-blog-project-page.png]({{site.baseurl}}/images/jekyll-blog-project-page.png)
 
    项目很小,下图所示的fork时间大概需要5秒. 到这里,你的博客已经差不多建立好了.
