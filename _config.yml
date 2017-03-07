@@ -25,7 +25,7 @@ github_username:  lizer
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: midnight
 gems:
   - jekyll-feed
   - jemoji
