@@ -8,7 +8,7 @@ published: true
 ![geckboard.png]({{site.baseurl}}/images/geckboard.png)
 
 2. [freeboard](https://freeboard.io/)
-有0美元一个月的,也有最贵100美元一个月的plan.开源,[repo在这](https://github.com/Freeboard/freeboard). github的项目介绍它damn-sexy....听起来就像几个能量饮料喝太多的在车库里搞start-up的美国宅男的口吻...运动饮料+宅男+车库=anything impossible!五颗星推荐!
+有0美元一个月的,也有最贵100美元一个月的plan.开源,[repo在这](https://github.com/Freeboard/freeboard). github的项目介绍它damn-sexy....听起来就像几个能量饮料喝太多的在车库里搞start-up的美国宅男的口吻...`运动饮料+宅男+车库=anything impossible`!五颗星推荐!
 >A damn-sexy, open source real-time dashboard builder for IOT and other web mashups. A free open-source alternative to Geckoboard.
 ![freeboard.png]({{site.baseurl}}/images/freeboard.png)
 
