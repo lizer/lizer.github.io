@@ -10,8 +10,7 @@ published: true
 2. [freeboard](https://freeboard.io/)
 有0美元一个月的,也有最贵100美元一个月的plan.开源,[repo在这](https://github.com/Freeboard/freeboard). github的项目介绍说 -
 >A damn-sexy, open source real-time dashboard builder for IOT and other web mashups. A free open-source alternative to Geckoboard.
-
-damn-sexy....听起来就像几个能量饮料喝太多的美国宅男在车库里搞出来的东西.五颗星推荐!
+    damn-sexy....听起来就像几个能量饮料喝太多的美国宅男在车库里搞出来的东西.五颗星推荐!
 ![freeboard.png]({{site.baseurl}}/images/freeboard.png)
 
 3. [appinsights](https://www.appinsights.com/)
@@ -37,4 +36,4 @@ damn-sexy....听起来就像几个能量饮料喝太多的美国宅男在车库�
 ##写在最后
 1. 实在没有精力去写一个各个dashboard产品横向对比.总而言之,不想付钱的话,考虑dashing和freeboard.不差钱的话就geckoboard.
 2. wordpress在dashboard界真流行...除了dashing的官网,其他五个都是wordpress做的或者是wordpress风格.
-3. 从dashboard的黑灰色流行程度来看,dashboard界多直男.
+3. 从dashboard的黑灰色流行程度来看,dashboard界多直男. :ghost:
