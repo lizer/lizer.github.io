@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 1. microservice是SOA的一个变种.microservice构架追求轻量和低依赖性(功能和数据的独立性).
 2. microservice已经有很多现成的开源框架了.
@@ -17,5 +17,3 @@ published: false
     - 测试和部署环境可能会难以管理,again,不同功能模块可能是不同技术.
 6. 由于数据的隔离,做一些查询的时候可能有有点麻烦.CRQS好像是目前的最好的解决方案.但是我的感觉这让软件变的不清爽了.不像一个proper solution,更像是一个workaround.
 7. 功能模块(service)的切分看构架师经验也看运气.就像寿司师傅片鱼片.
-
-
