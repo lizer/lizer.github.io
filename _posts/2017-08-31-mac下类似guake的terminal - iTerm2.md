@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 这十年MAC特么的白用了！！！
 之前公司的机器装的是ubuntu，guake用了三年，用的非常开心，ternimator也试过，但没有guake一键出现/隐藏方便。
