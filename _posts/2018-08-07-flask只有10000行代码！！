@@ -1,0 +1,8 @@
+---
+published: false
+---
+要做一个云和容器的自动化管理方案。决定用python，web framework里其实有两个可选flask和django，其他的framework流行度不高，为图方便就挑一个相对成熟的。
+
+看了下flask，只有10000行代码。。。准确的说，10000行都不到。虽然比django年轻6岁，但是github上star已经快追上了。
+
+然后我还是决定用django。。。migrations好用，admin page那些都自带了，不用bother自己去挑选配置。
