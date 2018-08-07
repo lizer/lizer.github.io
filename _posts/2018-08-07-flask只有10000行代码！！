@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 要做一个云和容器的自动化管理方案。决定用python，web framework里其实有两个可选flask和django，其他的framework流行度不高，为图方便就挑一个相对成熟的。
 
