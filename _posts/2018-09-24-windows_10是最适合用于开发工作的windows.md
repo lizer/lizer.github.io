@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 windows XP之后就基本没有用过windows了，一直都是mac加ubuntu加centos。windows只有在需要写公司标准幻灯片或者使用国内网银时候用。感觉用windows开发很麻烦，java，maven，git，python都得安装配置一遍，自己的一些alias命令和vim配置也用不了。
 
