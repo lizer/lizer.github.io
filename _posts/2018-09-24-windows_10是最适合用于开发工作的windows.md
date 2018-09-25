@@ -19,7 +19,5 @@ windows XP之后就基本没有用过windows了，一直都是mac加ubuntu加cen
 
 ======================== 09-25 更新
 WSL的Ubuntu 14.04以后的版本上apache有些问题。我在Apache 2上配了一个wsgi跑django。结果一访问就cpu飙升到顶。stackoverflow上也有哥们遇到了同样的问题 - 
+
 [overload-server-django-deploy-with-apache2-and-mod-wsgi](https://stackoverflow.com/questions/51036939/overload-server-django-deploy-with-apache2-and-mod-wsgi)
-
-
-
