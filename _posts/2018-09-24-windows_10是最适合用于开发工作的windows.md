@@ -14,3 +14,10 @@ windows XP之后就基本没有用过windows了，一直都是mac加ubuntu加cen
 好像还有一种ComEum + WSL bash + MobaXterm的做法，可以启动X11, 我也不需要X11，所以没有去做太多的了解。
 
 这样的话，我完全就可以用windows来作为开发机器了，还能用office套件，linux上的Thunerbird和pidgin难用到令人发指。如果没有什么兼容性问题的话，我会继续在开发机器上使用windows 10。
+
+
+
+======================== 09-25 更新
+WSL的Ubuntu 14.04以后的版本上apache有些问题。我在Apache 2上配了一个wsgi跑django。结果一访问就cpu飙升到顶。也有哥们遇到了同样的问题。
+
+https://stackoverflow.com/questions/51036939/overload-server-django-deploy-with-apache2-and-mod-wsgi
