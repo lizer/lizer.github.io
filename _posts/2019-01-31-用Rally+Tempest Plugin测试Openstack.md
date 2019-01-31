@@ -49,7 +49,7 @@ https://rally.readthedocs.io/en/latest/quick_start/tutorial/step_9_verifying_clo
 
 测试结束后，可以生成html报告。
 #rally verify report --uuid ed1ed4e2-c003-4339-a761-413334bfaed1 --type html --to report.html
-![rally_test_report_html]({{site.baseurl}}/_posts/rallly_test_result.PNG)
+![]({{site.baseurl}}/)![rally_test_report_html]({{site.baseurl}}/images/rallly_test_result.PNG)
 
 
 
