@@ -7,6 +7,9 @@ published: true
 
 老王.
 
-~~某通信公司高级devops工程师~~ 某互联网公司技术专家.都柏林圣三一学院毕业.
+1. ~~爱立信（爱尔兰）高级devops工程师~~ 
+2. ~~阿里巴巴技术专家，负责阿里数据中心运营运维平台和智能安防系统.~~
+3. 爱立信（爱尔兰）Cloud As Service Team Tech Lead. 负责Cloud Mgmt&Monitoring System.
 
-目前取得的最大成就是抚养女儿(马上两岁半了)和戒烟.
+都柏林圣三一学院毕业.
+
