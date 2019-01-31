@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## 背景
 部门装了10几套openstack了，每套32或64台满配的HP gen9 blade server。Openstack是用的是红帽的，差不多2年前开始安装第一套。当初还是做Prove Of Concept（POC）为主，试试我们的产品的openstack上运行得怎么样，红帽的客户支持好不好。Day 2 operations比如故障监测，自动CI没有考虑太多，当时就是先把我们的产品在我们自己的openstack上跑起来再说。后来openstack部署得越来越多，管理起来很困难，尤其是Life Cycle Mgmt，让人痛苦不堪，以至于索性放弃了patch，只做major release的升级。即便是这样，还是有大量的人力投入在LCM上，今年又计划了3套新的openstack，借着这个机会，我们决定顺便把CI先做了，在新的这几套openstack上试试水。
@@ -52,5 +52,3 @@ https://rally.readthedocs.io/en/latest/quick_start/tutorial/step_9_verifying_clo
 
 
 测试过程中我观察了几分钟openstack上的系统开销。nova-conductor, httpd, qemu-kvm, neutron-server等都飙到70%以上的CPU用量。不是到在实际的production openstack里，跑Tempest测试会不会影响到openstack的性能。等后面有时间再验证了。
-
-
