@@ -49,6 +49,8 @@ https://rally.readthedocs.io/en/latest/quick_start/tutorial/step_9_verifying_clo
 
 测试结束后，可以生成html报告。
 #rally verify report --uuid ed1ed4e2-c003-4339-a761-413334bfaed1 --type html --to report.html
+![rally_test_report_html]({{site.baseurl}}/_posts/rallly_test_result.PNG)
+
 
 
 测试过程中我观察了几分钟openstack上的系统开销。nova-conductor, httpd, qemu-kvm, neutron-server等都飙到70%以上的CPU用量。不是到在实际的production openstack里，跑Tempest测试会不会影响到openstack的性能。等后面有时间再验证了。
